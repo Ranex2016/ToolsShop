@@ -1,11 +1,21 @@
 <resources>
     <string name="app_name">Tools Shop</string>
     <string name="logo_description">Логотип магазина инструментов</string>
+    <string name="logo_drill">Логотип дрели</string>
 
     <string-array name="tools">
         <item>Дрели</item>
         <item>Перфораторы</item>
         <item>Болгарки</item>
-
     </string-array>
+
+    <string name="drill_interskol_title">Дрель Интерскол</string>
+    <string name="drill_makita_title">Дрель Makita</string>
+    <string name="drill_dewalt_title">Дрель DeWalt</string>
+
+    <string name="drill_interskol_info">Дрель Интерскол ДУ-13/780ЭР относится к категории ударных дрелей. За счет этого дрелью можно сверлить бетон, металл, древесные конструкции. </string>
+    <string name="drill_makita_info">Дрель Makita HP1630KX2 представляет из себя надежный инструмент профессионального уровня, который с успехом можно использовать и в домашнем хозяйстве.</string>
+    <string name="drill_dewalt_info">Дрель ударная DeWALT DWD 024 – компактное устройство, позволяющее проводить сверлильные работы любых поверхностей.</string>
+
+
 </resources>
